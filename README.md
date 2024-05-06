@@ -1,2 +1,5 @@
-# Code-Camp
-Contained are the solution files for various freecodecamp.org certifications I have completed or am working on.
+/******************************************************************************/
+Repo for coding projects and problem solutions for certifications and courses.
+/******************************************************************************/
+
+Py4DS - FreeCodeCamp.org Certification: Python for Data Science
